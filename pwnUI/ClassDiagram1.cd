@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="pwnDAL.Base">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnDAL.Instellingen_DAO">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnDAL.Score_DAO">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnDAL.Teams_DAO">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnDAL.VraagZeereep_DAO">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnLogic.Instellingen_Service">
+    <Position X="6" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnLogic.Score_Service">
+    <Position X="10.5" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnLogic.Team_Service">
+    <Position X="3.75" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnLogic.VragenZeereep_Service">
+    <Position X="8.25" Y="9" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnModel.Instellingen">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnModel.Score">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnModel.Team">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="pwnModel.VragenZeereep">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
